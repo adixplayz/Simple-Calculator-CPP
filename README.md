@@ -1,5 +1,5 @@
-# Simple-Calculator-CPP
-A simple Calculator written in C++.
+# Simple-Calculator-C++
+A Simple Calculator written in C++.
 
 Functionality:
 
