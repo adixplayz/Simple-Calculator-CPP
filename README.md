@@ -2,6 +2,7 @@
 A simple Calculator written in C++.
 
 Functionality:
+
 • Adding
 
 • Subtracting
@@ -19,4 +20,4 @@ The calculator is written in while loop to keep it running. To brake out of the 
 
 No other functionality is included.
 
-adixplayz
+Have Fun! - adixplayz
