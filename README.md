@@ -15,7 +15,7 @@ Functionality:
 
 • Exit the Calculator
 
-The calculator is written in while loop to keep it running. To brake out of the while loop, the option 6 has to be chosen.
+The calculator is written in while loop to keep it running. To brake out of the while loop, option 6 has to be chosen.
 
 
 No other functionality is included.
