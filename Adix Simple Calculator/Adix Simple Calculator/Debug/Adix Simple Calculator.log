@@ -1,0 +1,4 @@
+﻿  Adix Simple Calculator.cpp
+c:\users\adix\documents\visual studio 2015\projects\adix simple calculator\adix simple calculator\adix simple calculator.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Adix Simple Calculator.vcxproj -> C:\Users\Adix\Documents\Visual Studio 2015\Projects\Adix Simple Calculator\Debug\Adix Simple Calculator.exe
+  Adix Simple Calculator.vcxproj -> C:\Users\Adix\Documents\Visual Studio 2015\Projects\Adix Simple Calculator\Debug\Adix Simple Calculator.pdb (Full PDB)
